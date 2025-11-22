@@ -22,18 +22,3 @@ Grounded in behavioral psychology concepts like **Ego Depletion** and **CBT (Cog
 * **Haptic Feedback Engine:** Physical tactile feedback differentiating "spending" (heavy vibration) vs. "earning" (crisp tap) to reinforce operant conditioning.
 * **Transaction Ledger:** A history of your behavioral economy.
 
-## Tech Stack & Methodology
-
-This project explores **AI-Augmented Engineering**. As a Data Scientist, I utilized LLM-driven development tools ("Antigravity" workflows) to rapidly scaffold the React Native frontend, allowing me to focus on product architecture, logic, and behavioral design.
-
-* **Framework:** React Native (via Expo)
-* **Language:** TypeScript
-* **UI System:** `expo-blur`, `expo-linear-gradient` (Custom Glassmorphism implementation)
-* **State Management:** Custom Hooks + AsyncStorage (Local Persistence)
-
-## Roadmap: The "Insight Engine"
-Currently, DU acts as the data collection layer. The next phase involves integrating my background in Data Science and Machine Learning to build the **Predictive Backend**:
-
-* **Phase 2:** Integrate Python backend (FastAPI).
-* **Phase 3:** Train a model on user timestamps and spending habits to predict "Dopamine Crashes" before they happen.
-* **Phase 4:** Implement "Urge Surfing" intervention tools using LLM-generated personalized coaching.
