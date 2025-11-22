@@ -1,8 +1,6 @@
 # DU — Dopamine Units
 ### Cognitive Economics for the Digital Age
 
-> **"Mint.com for your Neurotransmitters."**
-
 **DU** is a mobile application that gamifies dopamine regulation. By treating mental energy and willpower as a finite daily currency ("Dopamine Units"), it helps users visualize the biological cost of cheap gratification and the investment value of deep work.
 
 ---
